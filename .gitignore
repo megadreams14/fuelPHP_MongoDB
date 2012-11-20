@@ -12,3 +12,4 @@ fuel/app/cache/*/*
 build
 nbproject/
 .idea
+reports/
