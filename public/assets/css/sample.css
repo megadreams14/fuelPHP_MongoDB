@@ -1,0 +1,20 @@
+.container-fluid > .sidebar {
+    float: left;
+    width: 220px;
+    background-color: lightblue;
+    border-radius: 5px;
+    height: 300px;
+}
+.container-fluid > .content {
+    float: left;
+    min-width: 700px;
+    max-width: 1180px;
+    margin-left: 20px;
+    border-radius: 5px;
+    background-color: lightgreen;
+    height: 600px;
+}
+
+#myModal {
+    display: none;
+}
